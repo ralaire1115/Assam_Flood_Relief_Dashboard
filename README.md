@@ -37,7 +37,8 @@ Built with Streamlit, the UI is split into two halves:
 To generate the final dispatch plan, the system uses the following operational heuristics:
 * **Impact Radius:** 1.5 km circle around the target coordinate.
 * **Demographics:** Assumes 30% children and 15% elderly for specialized medical calculations.
-* **Supply Ratios:** * 1 Water Filtration Kit per 4 people.
+* **Supply Ratios:**
+    * 1 Water Filtration Kit per 4 people.
     * 1 Pediatric/Trauma Med Kit per 50 vulnerable individuals.
     * 1 Emergency Tent per 8 people.
     * 1 Evacuation Boat per 100 people (with 3 rescue operators per boat).
