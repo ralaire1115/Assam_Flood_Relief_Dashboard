@@ -1,0 +1,13 @@
+Category,Parameter,Value
+Performance Metric,Overall Model Accuracy,92.83%
+Performance Metric,Mean Abs. Percentage Error (MAPE),7.17%
+Performance Metric,False Positive Rate,4.20%
+Performance Metric,Recall (Sensitivity),89.50%
+,,
+AI Feature Importance,Rainfall,0.2866
+AI Feature Importance,Soil Moisture,0.2226
+AI Feature Importance,Slope,0.1720
+AI Feature Importance,Elevation,0.1607
+AI Feature Importance,Humidity,0.1343
+AI Feature Importance,Water Occurrence,0.0123
+AI Feature Importance,Max Temp,0.0115
