@@ -75,13 +75,12 @@ streamlit run app.py
 # ==========================================
 # 2. REPOSITORY STRUCTURE REFERENCE
 # ==========================================
-# Your final folder should look exactly like this:
 #
+# ├── Final_Master_Flood_Dataset_Corrected.csv # Master Topographical Dataset
+# ├── Location_Dictionary.csv                  # Offline City Database
 # ├── README.md
-# ├── requirements.txt
 # ├── app.py                                   # Main Streamlit Dashboard
-# ├── train_pipeline.py                        # ML Model Training Script
 # ├── build_locations.py                       # Geocoding Data Engineering Script
 # ├── flood_brain.pkl                          # Trained Random Forest Model
-# ├── Location_Dictionary.csv                  # Offline City Database
-# └── Final_Master_Flood_Dataset_Corrected.csv # Master Topographical Dataset
+# ├── requirements.txt
+# └── train_pipeline.py                        # ML Model Training Script
